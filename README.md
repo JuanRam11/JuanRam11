@@ -1,3 +1,27 @@
+I like to learn things related to technology, I learn easily by receiving precise
+explanations and I also like solving computer problems. I aspire to collaborate in
+a company that allows me to apply my knowledge, develop new skills and allows me to grow
+professionally and personally.
+
+My responsabilities on companys I had worked include:
+
+ • Web Design with HTML, CSS, but I also have knowledge of Bootstrap framework and templates.
+ • Responsive Design on company sites.
+ • On Grupo Sanus it were a system that deploys on the web, I was in charge of using Bootstrap for responsive.
+ • I have also Knowledge on Node.js, React.js, MongoDB and Express.js.
+ • I have worked on projects by my own and have done some courses on Udemy related to React, Node.js, Express.js and MongoDB. These projects include Login and CRUD operations on database.
+
+Experience:
+ • HTML5, CSS3, Flexbox, Responsive Design 
+ • JavaScript (all 2020 modern syntax, ES6, ES2018, etc.)
+ • Asynchronous JavaScript - Promises, async/await, etc.
+ • Windows Server
+ • Bootstrap 4 and 5 (alpha) & Look and Feel
+ • NodeJS, ExpressJS
+ • REST
+ • SQL vs. NoSQL databases: MongoDB / MYSQL / PostgreSQL
+ • Much more
+
 Me gusta aprender lo relacionado a la tecnología, aprendo fácil al recibir
 explicaciones precisas y además me gusta resolver problemas informáticos. Aspiro
 a colaborar en una empresa que me permite aplicar mis conocimiento, desarrollar
