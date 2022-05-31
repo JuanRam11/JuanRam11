@@ -1,3 +1,5 @@
+# English
+
 I like to learn things related to technology, I learn easily by receiving precise
 explanations and I also like solving computer problems. I aspire to collaborate in
 a company that allows me to apply my knowledge, develop new skills and allows me to grow
@@ -21,6 +23,8 @@ Experience:
  • REST
  • SQL vs. NoSQL databases: MongoDB / MYSQL / PostgreSQL
  • Much more
+ 
+# Español
 
 Me gusta aprender lo relacionado a la tecnología, aprendo fácil al recibir
 explicaciones precisas y además me gusta resolver problemas informáticos. Aspiro
