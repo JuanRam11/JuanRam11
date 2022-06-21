@@ -1,3 +1,6 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanRam11)](https://github.com/anuraghazra/github-readme-stats)
+
+
 # English
 
 I like to learn things related to technology, I learn easily by receiving precise
