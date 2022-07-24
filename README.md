@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **ALDERECA**
 
-- 🌱 I’m currently learning **React.JS, Express.js, Node.js, JavaScript, TypeScript, Redux, ContextAPI**
+- 🌱 I’m currently learning **React.JS, Express.js, Node.js, JavaScript, TypeScript, Redux, ContextAPI, Ionic**
 
 - 👨‍💻 All of my projects are available at [Github](Github)
 
-- 💬 Ask me about **Node.js**
+- 💬 Ask me about **Node.js, React, JavaScript, TypeScript**
 
 - 📫 How to reach me **juanramon1123@hotmail.com**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linked" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linked" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/juan-ram%C3%B3n-then-b%C3%A1ez-b7a7b11b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linked" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
